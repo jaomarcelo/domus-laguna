@@ -4,9 +4,9 @@ Landing page do projeto de pratica extensionista, onde o objetivo é construir u
 
 ##Integrantes do Grupo
 
-- Arthur Oliveira Pires Marinho Correia 202413772
+Arthur Oliveira Pires Marinho Correia 202413772
 
--Caior Sandor Jambor Oliveira - 202413773
+Caior Sandor Jambor Oliveira - 202413773
 
 João Marcelo Brecha Rodrigues - 202222224
 
