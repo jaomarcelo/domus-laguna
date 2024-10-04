@@ -1,6 +1,6 @@
 # landing_page
 
-Landing page do projeto de pratica extensionista, onde o objetivo é construir un marktplace es una plataforma integrafa.
+Landing page do projeto de prática extensionista, onde o objetivo é construir um marktplace em uma plataforma integrada.
 
 ## Integrantes do Grupo
 
