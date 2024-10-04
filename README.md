@@ -1,8 +1,8 @@
-#landing_page
+# landing_page
 
 Landing page do projeto de pratica extensionista, onde o objetivo é construir un marktplace es una plataforma integrafa.
 
-##Integrantes do Grupo
+## Integrantes do Grupo
 
 Arthur Oliveira Pires Marinho Correia 202413772
 
